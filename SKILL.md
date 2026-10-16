@@ -100,7 +100,6 @@ This general framework (principles, gates, classification, G0 mechanism) is shar
 - ✅ You may **use** this framework, as-is, in your professional projects, training or internal processes.
 - ✅ Attribution required: credit **Kamel Bouadel / SYVEX ENGINEERING** as the original author.
 - ❌ No modification, adaptation or derivative work is permitted — no republishing a modified version under another name.
-- ❌ Commercial use of the framework itself (reselling it as a product) is not permitted without prior agreement.
 
 Full license: https://creativecommons.org/licenses/by-nd/4.0/
 
